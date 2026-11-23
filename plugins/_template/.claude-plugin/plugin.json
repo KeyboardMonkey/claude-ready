@@ -1,0 +1,8 @@
+{
+  "name": "plugin-name",
+  "version": "0.1.0",
+  "description": "What this plugin adds and when to use it.",
+  "author": {
+    "name": "KeyboardMonkey"
+  }
+}
